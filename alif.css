@@ -1,0 +1,26 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgba(58, 58, 126, 0.692);
+    padding: 50px 10px;
+    justify-items: center;
+}
+a{
+    text-decoration: none;
+    display: inline;
+    padding: 5px 10px;
+    color: white;
+    font-size: 30px;
+}
+
+a:hover{
+    text-decoration: none;
+    display: inline;
+    padding: 5px 10px;
+    color: rgba(0, 0, 100, 0.712);
+    font-size: 30px;
+}
